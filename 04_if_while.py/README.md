@@ -1,0 +1,3 @@
+1. Írj egy Python programot, amely eltávolítja az összes ismétlődő elemet egy listából és kiírja az eredményt!
+2. Adott egy lista, amely számokat tartalmaz. Írj egy programot, amely meghatározza a lista elemeinek összegét a következő feltételek szerint: ha az elem pozitív, akkor az összegbe kerüljön be, ha negatív, akkor ne!
+3. Adj meg egy számot és írj egy programot, amely kiírja az összes osztóját a számnak! Használd a `while` ciklust!
