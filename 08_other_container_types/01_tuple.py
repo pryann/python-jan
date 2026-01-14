@@ -16,3 +16,11 @@ rgb_list[0] = 128
 rgb = tuple(rgb_list)
 
 print("Modified tuple:", rgb)
+
+
+# fmt: off
+numbers = (1)
+print(type(numbers)) # <class 'int'>
+
+numbers = (1,)
+print(type(numbers)) # <class 'tuple'>
