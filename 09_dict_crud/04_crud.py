@@ -1,6 +1,3 @@
-from venv import create
-
-
 users = [
     {
         "id": 1,
